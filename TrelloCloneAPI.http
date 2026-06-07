@@ -1,0 +1,6 @@
+@TrelloCloneAPI_HostAddress = http://localhost:5108
+
+GET {{TrelloCloneAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
